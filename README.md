@@ -17,3 +17,11 @@ Este é um aplicativo web simples para gerenciar lista. Ele permite que você cr
 - **Bootstrap 5:** Para estilização e design responsivo.
 - **jQuery:** Biblioteca JavaScript para interações do lado do cliente.
 - **MySQL:** Banco de dados para armazenamento de playlists e conteúdos.
+
+## 🚀 **Como Testar:**
+1. Clone o repositório
+2. Instale as dependências: `composer install`
+3. Configure o arquivo `.env` com suas configurações de banco de dados.
+4. Execute as migrações do banco de dados: `php artisan migrate`
+5. Inicie o servidor: `php artisan serve`
+6. Acesse o aplicativo no navegador: [http://localhost:8000]

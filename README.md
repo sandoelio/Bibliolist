@@ -2,10 +2,10 @@
 Este é um aplicativo web simples para gerenciar lista. Ele permite que você crie, edite e exclua lista, além de adicionar e gerenciar conteúdos em cada lista
 ## Funcionalidades
 
-- **Listar Playlists:** Visualize todas as playlists existentes.
-- **Adicionar Playlist:** Crie uma nova playlist com título, descrição e autor.
-- **Editar Playlist:** Faça alterações no título, descrição ou autor de uma playlist existente.
-- **Excluir Playlist:** Remova uma playlist permanentemente.
+- **Listar:** Visualize todas as playlists existentes.
+- **Adicionar lista:** Crie uma nova playlist com título, descrição e autor.
+- **Editar lista:** Faça alterações no título, descrição ou autor de uma playlist existente.
+- **Excluir lista:** Remova uma playlist permanentemente.
 - **Visualizar Conteúdos:** Veja todos os conteúdos associados a uma playlist.
 - **Adicionar Conteúdo:** Acrescente novos conteúdos a uma playlist com título, URL e autor.
 - **Editar Conteúdo:** Modifique o título, URL ou autor de um conteúdo existente.
